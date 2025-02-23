@@ -12,5 +12,4 @@ console.log(arr3.length);
 
 //saca el primer elemento y lo devuelve
 let rtn = arr3.shift();
-console.log(arr3);
 console.log(rtn);
